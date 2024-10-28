@@ -1,4 +1,3 @@
-// PostsList.js
 import{ useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchAlbumsLoading, fetchAlbumsSuccess, fetchAlbumsFailed } from './redux/albumsSlice';
